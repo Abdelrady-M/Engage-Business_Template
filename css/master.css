@@ -521,7 +521,7 @@ a {
 /* Start portfolio */
 .portfolio {
     position: relative;
-    background-image: url(/image/business-main.jpg);
+    background-image: url(../image/business-main.jpg);
     width: 100%;
     height: 80vh;
     background-size: cover;
